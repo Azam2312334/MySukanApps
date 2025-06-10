@@ -4,6 +4,7 @@ MySukan is a **sports matchmaking app** designed to help users easily find and j
 This project is built using **React Native** with **Expo** and connected to **Firebase** for real-time data and authentication.  
 
 <img src="https://github.com/user-attachments/assets/89f4460e-356c-496d-8510-23105c79deda" alt="WhatsApp Image 2025-06-10 at 2 47 50 PM" width="200"/>
+![WhatsApp Image 2025-06-10 at 2 47 50 PM (1)](https://github.com/user-attachments/assets/0bcdbbb3-3cf4-4b47-9c6f-c22b08dacc14)
 
 
 
