@@ -5,9 +5,8 @@ This project is built using **React Native** with **Expo** and connected to **Fi
 
 <img src="https://github.com/user-attachments/assets/89f4460e-356c-496d-8510-23105c79deda" alt="WhatsApp Image 2025-06-10 at 2 47 50 PM" width="200"/>
 <img src="https://github.com/user-attachments/assets/0bcdbbb3-3cf4-4b47-9c6f-c22b08dacc14" alt="WhatsApp Image 2025-06-10 at 2 47 50 PM (1)" width="200"/>
-![WhatsApp Image 2025-06-10 at 2 47 51 PM](https://github.com/user-attachments/assets/13a8c30e-9cb3-4030-b700-ed0a33cef801)
-![WhatsApp Image 2025-06-10 at 2 47 52 PM](https://github.com/user-attachments/assets/b0abe66e-11da-4a7c-b324-ebbea446c17b)
-
+<img src="https://github.com/user-attachments/assets/13a8c30e-9cb3-4030-b700-ed0a33cef801" alt="WhatsApp Image 2025-06-10 at 2 47 51 PM"/>
+<img src="https://github.com/user-attachments/assets/b0abe66e-11da-4a7c-b324-ebbea446c17b" alt="WhatsApp Image 2025-06-10 at 2 47 52 PM"/>
 ---
 
 ## **🚀 Features**  
