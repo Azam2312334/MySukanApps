@@ -20,27 +20,6 @@ This project is built using **React Native** with **Expo** and connected to **Fi
 
 ---
 
-## **📥 Installation & Setup**  
-
-### **1️⃣ Clone the Repository**  
-
-```sh
-git clone https://github.com/yourusername/MySukan.git
-cd MySukan
-```
-
-### **2️⃣ Install Dependencies**  
-
-```sh
-npm install
-```
-
-### **3️⃣ Start the App**  
-
-```sh
-npx expo start
-```
-
 You will see options to open the app on:  
 
 - **Android Emulator** (via Android Studio)  
@@ -62,20 +41,6 @@ You will see options to open the app on:
  ├── package.json     # Dependencies and scripts
  ├── README.md        # Project documentation
  ├── .gitignore       # Files to ignore in Git
-```
-
----
-
-## **🛠️ Reset Project**  
-
-If you want to start fresh, run:  
-
-```sh
-npm run reset-project
-```
-
-This will move the starter code to the **app-example** directory and create a blank **app** folder for new development.  
-
 ---
 
 ## **📚 Learn More**  
