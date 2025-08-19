@@ -138,8 +138,7 @@ Your continued use of MySukan after any changes indicates your acceptance of the
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-- **Email:** privacy@mysukan.com
-- **Support:** support@mysukan.com
+- **Email:** ariefnurazams@gmail.com
 - **Address:** Malaysia
 
 We will respond to your inquiries within a reasonable timeframe and in accordance with applicable laws.
