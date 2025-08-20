@@ -58,14 +58,12 @@ Unlike generic event apps, MySukan is designed **specifically for sports lovers*
 
 ---
 
-## 📲 How to Run  
+## 📲 Get the App  
 
-You can open the app on:  
-- **Android Emulator** (Android Studio)  
-- **iOS Simulator** (Xcode)  
-- **Expo Go** (scan QR code on real device)  
+MySukan is **already live** and ready to bring sports back into your hands! 🎉  
 
----
+- 📱 **Android** → Currently available on the **Google Play Store**. Just search for **“MySukan”** and start your journey today!  
+- 🍏 **iOS** → Coming soon to the **App Store**. Stay tuned — we’re working hard to launch it so iPhone users can join the fun too! 🚀  
 
-## 📂 Project Structure  
+👉 Whether you’re looking for a quick game, a competitive match, or just a fun weekend activity, MySukan makes it happen.  
 
