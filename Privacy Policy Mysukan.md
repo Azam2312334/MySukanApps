@@ -143,6 +143,17 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 We will respond to your inquiries within a reasonable timeframe and in accordance with applicable laws.
 
+## 14. App Features and Safety
+
+- **Dating or sexual content:** MySukan is **not intended** for dating or sexual relationships.  
+- **Nudity:** The app does **not permit sharing of nudity**.  
+- **Graphic violence:** The app does **not permit public sharing of real-world, graphic violence** outside of newsworthy context.  
+- **Location sharing:** Users’ **precise physical location is not shared**. Only event locations may be visible to participants.  
+- **Digital goods:** Currently, MySukan **does not support purchasing digital goods**.  
+- **Blocking users:** Users cannot block others, but they can **report users or events** they find inappropriate.  
+- **Reporting content:** Users can **report matches, events, or user-generated content** to ensure community safety.  
+- **Chat moderation:** The app supports chat functionality. Users can **only chat within groups they have joined**; random users cannot send messages.  
+
 ---
 
 **Your privacy is important to us. We are committed to protecting your personal information and being transparent about our data practices.**
