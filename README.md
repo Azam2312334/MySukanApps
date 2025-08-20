@@ -1,51 +1,71 @@
-# MySukanApps
-MySukan is a **sports matchmaking app** designed to help users easily find and join sports events based on their preferences. Whether you're looking to join a casual game, organize a match, or find teams at your skill level, MySukan simplifies the process with its **matchmaking system, event management, and notifications**.  
+# 🏀 MySukan – Sports Matchmaking App  
 
-This project is built using **React Native** with **Expo** and connected to **Firebase** for real-time data and authentication.  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7930a85-d3fb-4da1-b07f-f62f7a004f53" alt="MySukan App Screenshot" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0bcdbbb3-3cf4-4b47-9c6f-c22b08dacc14" alt="MySukan App Screenshot" width="200"/>
+  <img src="https://github.com/user-attachments/assets/13a8c30e-9cb3-4030-b700-ed0a33cef801" alt="MySukan App Screenshot" width="200"/>
+  <img src="https://github.com/user-attachments/assets/b0abe66e-11da-4a7c-b324-ebbea446c17b" alt="MySukan App Screenshot" width="200"/>
+</p>  
 
-<img src="https://github.com/user-attachments/assets/b7930a85-d3fb-4da1-b07f-f62f7a004f53" alt="WhatsApp Image 2025-06-10 at 2 47 50 PM" width="200"/>
-<img src="https://github.com/user-attachments/assets/0bcdbbb3-3cf4-4b47-9c6f-c22b08dacc14" alt="WhatsApp Image 2025-06-10 at 2 47 50 PM (1)" width="200"/>
-<img src="https://github.com/user-attachments/assets/13a8c30e-9cb3-4030-b700-ed0a33cef801" alt="WhatsApp Image 2025-06-10 at 2 47 51 PM" width="200"/>
-<img src="https://github.com/user-attachments/assets/b0abe66e-11da-4a7c-b324-ebbea446c17b" alt="WhatsApp Image 2025-06-10 at 2 47 52 PM" width="200"/>
----
-
-## **🚀 Features**  
-
-- ✅ **User Authentication** - Sign up and log in securely using Firebase.  
-- ✅ **Event Discovery** - Browse and join sports events based on location and availability.  
-- ✅ **Matchmaking System** - Automatically find teams or opponents based on skill level and availability.  
-- ✅ **Event Creation** - Create private or public sports events with a unique event code.  
-- ✅ **Push Notifications** - Get real-time updates on new events, matches, and team invites.  
-- ✅ **Admin Dashboard** - Manage events, view reports, and take action against inappropriate content.  
+<p align="center">
+  <b>Play. Match. Compete. Stay Healthy.</b><br/>
+</p>  
 
 ---
 
-You will see options to open the app on:  
+## 🌍 About MySukan  
 
-- **Android Emulator** (via Android Studio)  
-- **iOS Simulator** (via Xcode)  
-- **Expo Go** (scan QR code to test on a real device)  
+**MySukan is more than just an app — it’s a movement.**  
+
+In today’s world, staying active can be tough. Many people want to play sports but struggle to find teammates, opponents, or events that match their skill level. Some are beginners looking for a safe space to learn, while others are competitive athletes searching for equal-level challenges.  
+
+That’s where **MySukan** comes in.  
+
+With MySukan, you can:  
+- **Discover events near you** and join with a single tap.  
+- **Organize matches** and invite others with a private event code.  
+- **Get matched automatically** with opponents or teams of your level — whether you’re a beginner, intermediate, or pro.  
+- **Climb the sports rankings** with our gamified system that rewards real-life activity.  
+
+Our mission is simple:  
+👉 To make sports **accessible, fair, and exciting** for everyone.  
+👉 To help individuals build a **healthier lifestyle** through fun, consistent play.  
+👉 To bring people together, turning local communities into **active sports hubs**.  
+
+**Imagine a world where finding a game is as easy as opening an app, where every match is balanced, and where your weekend football or badminton game contributes to your personal sports journey. That’s the future MySukan is building.**  
 
 ---
 
-## **📌 Project Structure**  
+## 🚀 Features  
 
-```
-/MySukan
- ├── /app             # Core application files
- │    ├── /screens    # Screens for different pages
- │    ├── /components # Reusable UI components
- │    ├── /config     # Firebase and other configurations
- │    ├── App.js      # Main entry point
- │
- ├── package.json     # Dependencies and scripts
- ├── README.md        # Project documentation
- ├── .gitignore       # Files to ignore in Git
+- 🔐 **User Authentication** – Secure signup/login with Firebase  
+- 🏆 **Skill-Based Matchmaking** – Find balanced opponents (Beginner, Intermediate, Pro)  
+- 🎯 **Event Creation** – Public or private with unique event codes  
+- 📢 **Push Notifications** – Real-time updates for matches and invites  
+- 🛡️ **Admin Dashboard** – Manage events & keep the community safe  
+- 📊 **Gamified Rankings** – Track progress and stay motivated  
+
 ---
 
-## **📚 Learn More**  
+## ✨ Why MySukan?  
 
-- 📖 [Expo Docs](https://docs.expo.dev/) – Learn more about Expo development.  
-- 📖 [React Native Guide](https://reactnative.dev/docs/getting-started) – Official React Native documentation.  
-- 📖 [Firebase Docs](https://firebase.google.com/docs) – Learn how Firebase powers authentication and data storage.  
+Unlike generic event apps, MySukan is designed **specifically for sports lovers**:  
+
+- ✅ Play with people at the **same skill level** for fair competition  
+- ✅ Stay motivated with a **gamified ranking system**  
+- ✅ Build a **healthy lifestyle** through real-world sports, not just digital badges  
+- ✅ Grow friendships and networks through a **shared love of the game**  
+
+---
+
+## 📲 How to Run  
+
+You can open the app on:  
+- **Android Emulator** (Android Studio)  
+- **iOS Simulator** (Xcode)  
+- **Expo Go** (scan QR code on real device)  
+
+---
+
+## 📂 Project Structure  
 
