@@ -1,4 +1,4 @@
-# 🏀 MySukan – Sports Matchmaking App  
+#   MySukan – Sports Matchmaking App  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b7930a85-d3fb-4da1-b07f-f62f7a004f53" alt="MySukan App Screenshot" width="200"/>
