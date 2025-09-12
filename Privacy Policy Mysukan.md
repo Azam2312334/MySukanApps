@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: 19 August, 2025**
+**Last updated: 12 September, 2025**
 
 ---
 
@@ -98,11 +98,26 @@ You have certain rights regarding your personal information:
 
 To exercise these rights, please contact us through the app settings or our support email.
 
-## 9. Children's Privacy
+## 9. Children's Privacy and Parental Consent
 
-MySukan is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+MySukan is designed for users aged 13 and older. We take special measures to protect younger users in our community.
+
+### For Users Under 18:
+- **Parental Consent:** Users under 18 are encouraged to obtain parental consent before using MySukan
+- **Enhanced Safety Features:** Additional safety measures and content moderation for younger users
+- **Restricted Features:** Some features may be limited for users under 18 to ensure safety
+- **Educational Resources:** Safety guidelines and digital citizenship resources are provided
+
+### For Users Under 13:
+MySukan is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information immediately.
 
 If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.
+
+### Parental Controls and Oversight:
+- Parents can request information about their minor child's account
+- Parents can request deletion of their minor child's account and data
+- We provide tools for parents to monitor their child's activity on the platform
+- Regular safety reminders are sent to users under 18
 
 ## 10. International Data Transfers
 
@@ -145,18 +160,32 @@ We will respond to your inquiries within a reasonable timeframe and in accordanc
 
 ## 14. App Features and Safety
 
+### Age-Appropriate Content and Safety Measures:
+- **Community Guidelines:** Clear rules about appropriate behavior and content for all ages
+- **Enhanced Moderation:** Additional content review for interactions involving younger users
+- **Safety Education:** Regular tips and resources about online safety and digital citizenship
+- **Bullying Prevention:** Zero tolerance policy for harassment, with immediate reporting mechanisms
+
+### App Features:
 - **Dating or sexual content:** MySukan is **not intended** for dating or sexual relationships.  
 - **Nudity:** The app does **not permit sharing of nudity**.  
 - **Graphic violence:** The app does **not permit public sharing of real-world, graphic violence** outside of newsworthy context.  
-- **Location sharing:** Users’ **precise physical location is not shared**. Only event locations may be visible to participants.  
+- **Location sharing:** Users' **precise physical location is not shared**. Only event locations may be visible to participants.  
 - **Digital goods:** Currently, MySukan **does not support purchasing digital goods**.  
 - **Blocking users:** Users cannot block others, but they can **report users or events** they find inappropriate.  
-- **Reporting content:** Users can **report matches, events, or user-generated content** to ensure community safety.  
-- **Chat moderation:** The app supports chat functionality. Users can **only chat within groups they have joined**; random users cannot send messages.  
+- **Reporting content:** Users can **report matches, events, or user-generated content** to ensure community safety. Reports are reviewed within 24 hours.  
+- **Chat moderation:** The app supports chat functionality. Users can **only chat within groups they have joined**; random users cannot send messages. All chats are monitored for inappropriate content.  
+
+### Enhanced Safety for Younger Users:
+- **Parental Notification:** Parents of users under 18 can opt to receive safety notifications
+- **Restricted Direct Messaging:** Users under 16 have additional restrictions on direct messaging
+- **Event Supervision:** Events created by or for users under 18 include safety guidelines and supervision recommendations
+- **Quick Report Button:** Easily accessible reporting feature for any concerning behavior
+- **Safety Check-ins:** Regular prompts about safe meeting practices for in-person sports events
 
 ---
 
-**Your privacy is important to us. We are committed to protecting your personal information and being transparent about our data practices.**
+**Your privacy and safety are important to us. We are committed to protecting your personal information, especially for our younger users, and being transparent about our data practices.**
 
 ---
 
