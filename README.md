@@ -62,7 +62,9 @@ Unlike generic event apps, MySukan is designed **specifically for sports lovers*
 
 MySukan is **already live** and ready to bring sports back into your hands! 🎉  
 
-- 📱 **Android** → Currently testing on the **Google Play Store**.   
+- 📱 **Android** → Currently testing on the **Google Play Store**. Join the Google Group 👉 [MySukan Testers Group](https://groups.google.com/g/mysukan-testers)  
+then join the Beta on Google Play 👉 [MySukan Beta Test](https://play.google.com/apps/testing/com.azam4321.mysukan)
+  
 - 🍏 **iOS** → Coming soon to the **App Store**. Stay tuned — we’re working hard to launch it so iPhone users can join the fun too! 🚀  
 
 👉 Whether you’re looking for a quick game, a competitive match, or just a fun weekend activity, MySukan makes it happen.  
