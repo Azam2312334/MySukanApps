@@ -67,7 +67,7 @@ then join the Beta on Google Play 👉 [MySukan Beta Test](https://play.google.c
   
 - 🍏 **iOS** → Coming soon to the **App Store**. Stay tuned — we’re working hard to launch it so iPhone users can join the fun too! 🚀  
 
-- 🌐 Web Version → Try out MySukan Web (still in progress) at mysukan.vercel.app
+- 🌐 Web Version → Try out MySukan Web (still in progress) at [mysukan.vercel.app](mysukan.vercel.app)
 
 👉 Whether you’re looking for a quick game, a competitive match, or just a fun weekend activity, MySukan makes it happen.  
 
